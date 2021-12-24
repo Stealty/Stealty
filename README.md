@@ -2,11 +2,11 @@ Hello, i'm Gabriel Ribeiro!
 
 🎓Web Full Stack student🎓 <p>
 🚀by: Digital House🚀
-<div align="left">
+<div align="center">
   <a href="https://github.com/Stealty">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stealty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="Stealty-pic" height="150em" style="border-radius:50px;" src="https://media.giphy.com/media/K2ViE0aamBIAGeJbe0/giphy.gif">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stealty&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Stealty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="Stealty-pic" height="300em" style="border-radius:50px;" src="https://media.giphy.com/media/3oplbXjIZ5bXcpE1TG/giphy.gif">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stealty&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
