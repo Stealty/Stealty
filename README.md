@@ -1,4 +1,4 @@
-Hello, i'm Gabriel Ribeiro!
+<h1 align="center">🎓Hello, i'm Gabriel Ribeiro!🎓</h1>
 
 <div align="center">
   <a href="https://github.com/Stealty">
