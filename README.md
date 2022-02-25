@@ -24,6 +24,5 @@
  
 </div>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-ribeiro-98b3a1163" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-ribeiro-98b3a1163?trk=profile-badge">Gabriel Ribeiro</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-ribeiro-98b3a1163" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-ribeiro-98b3a1163?trk=profile-badge">Gabriel Ribeiro</a></div>
               
