@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Stealty">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Stealty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="Stealty-pic" height="300em" style="border-radius:50px;" src="https://i.giphy.com/media/3oplbXjIZ5bXcpE1TG/giphy.webp"/>
+    <img align="right" alt="Stealty-pic" height="500em" style="border-radius:50px;" src="https://i.giphy.com/media/3oplbXjIZ5bXcpE1TG/giphy.webp"/>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stealty&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
